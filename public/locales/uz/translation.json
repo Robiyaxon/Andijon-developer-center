@@ -1,0 +1,109 @@
+{
+  "navbar1": "Biz haqimizda",
+  "navbar2": "Xizmatlar",
+  "navbar3": "Natijalar",
+  "navbar4": "Yangiliklar",
+  "navbar5": "Aloqa",
+  "seeMore": "Ko'proq Ko'rish",
+  "homeCarousel": {
+    "title1": "Andijon taraqqiyot markazi",
+    "title2": "SIFAT VA TEZLIK",
+    "title3": "Qulay va hamyonbop",
+    "subTitle1": "ADC - BILIM SARI YO'L",
+    "subTitle2": "BIZ SIZGA SIFATLI XIZMATLAR TAKLIF ETAMIZ",
+    "subTitle3": "BIZNING NATIJALARIMIZNI KO`RING VA BAHO BERING"
+  },
+  "ourServices": {
+    "intro": "Bizning ximatlar",
+    "title1": "Ofis binolarini rekonstruksiya qilish",
+    "title2": "Binolarni kapital ta'mirlash",
+    "title3": "Demontaj va yig'ish",
+    "title4": "Utilizatsiya",
+    "title5": "Logistika xizmatlari",
+    "title6": "Tashqi fasadlarni yuvish",
+    "subTitle1": "Biz siz uchun ofis va binolaringizni chiroyli dizaynga va mijozlarni lol qoldiruvchi darajada o'zgartirib beramiz!",
+    "subTitle2": "Eski ko'rinishdan yangicha va o'ziga xos ko'rinishga o'tish kompaniya uchun mijozlar oqimini oshirish uchun katta yordam beradi.",
+    "subTitle3": "Demontaj va yig'ish ishlari tez va sifatli chiqishiga kompaniyamiz javob beradi!",
+    "subTitle4": "Atrof muhitga zarar yetkazmaslik uchun bizning xizmatimizdan foydalaning! Bu sizga ham arzonroq tanlovdir!",
+    "subTitle5": "Biz sizning buyurtmalaringizni uyingizgacha xavfsiz va mahsulotingizga zarar yetkazmagan holda yetkazib beramiz!",
+    "subTitle6": "Tashqi ko'rinish har doim ko'zga birinchi tashlanadi. Shunday ekan unga alohida e'tibor berish sizning biznesingiz uchun foydali!"
+  },
+  "ourHistory": {
+    "intro": "BIZNING TARIX",
+    "title1": "Building Mega Service kompaniyasi O'zbekiston qurilish bozorida yetakchi o'rinni egallaydi. Kompaniyamiz 2014-yilda tashkil etilgan.",
+    "subTitle1": "Kompaniyaning asosiy yo'nalishi: har qanday murakkablikdagi inshootlarning ofis binolarini rekonstruksiya qilish, binolarni kapital ta'mirlash, ofislarni ta'mirlash, shuningdek, har qanday dizayndagi demontaj va yig'ish. Kompaniyamiz muhandislik tarmoqlarini o'rnatish, ya'ni 380 kVtgacha bo'lgan elektr montaj ishlari, sanitariya-tesisat ishlari, isitish, ventilyatsiya va konditsionerlarni o'rnatish ishlarini ham bajarishi mumkin."
+  },
+  "homeProjects":{
+    "seeProject": "Loyihani ko'rish",
+    "title1": "FOOD CITY",
+    "subTitle1": "FOOD City xududida Trastbankning yangi filialni qurishni yakunladik!",
+    "title2": "ProCab kompaniyasi",
+    "subTitle2": "ProCab kompaniyasi bilan ancha yillardan beri hamkorlik qilib kelmoqdamiz",
+    "title3": "Oilaviy Poliklinka",
+    "subTitle3": "60-sonli oilaviy poliklinika qurilishi o'z nihoyasiga yetib foydalanishga topshirildi!",
+    "title4": "Tashqi fasadlarni yuvish",
+    "subTitle4": "Qilgan ishlarimizdan namunalarni ko'ring va baho bering!",
+    "title5": "250-sonli bog'cha",
+    "subTitle5": "Bog'cha binosi to'liq bitgan holda foydalanishga topshirildi!",
+    "title6": "Samarqand Trastbank filiali",
+    "subTitle6": "Samarqandda hakorimiz Trastbankning yangi filiali qurib, foydalanishga topshirildi",
+    "title7": "Alutex", 
+    "subTitle7": "Alutex kompniyasining asosiy hamkori biz hisoblanamiz!",
+    "title8": "Multimodal Trans Terminal",
+    "subTitle8": "Bizga logistika xizmatlarida hamkorlik qiluvchi kompaniya"
+  },
+  "homeNews":{
+    "intro":"So'ngi Yangiliklar",
+    "title1": "250-sonli bog'chani tamirlash ishlari yakunlandi.",
+    "subTitle1": "Qurilish ishlari o'z vaqtida yakunlandi va foydalaishga topshirildi. Kompniya tomonidan qoshimcha favvora ham qurib berildi.",
+    "title2": "Trastbank filiali qurilishi yakunlandi",
+    "subTitle2": "Yangi qurilayotgan yirik bozor hududida hamkorimiz Trastbankning yangi filiali qurib bitkazildi",
+    "title3": "60-sonli oilaviy poliklinika foydalanishga topshirildi.",
+    "subTitle3": "Oilaviy poliklinika to'liq montaj ishlari bitdi va yangi qismlari quirilish ishlari davom ettirilmoqda"
+  },
+  "footer": {
+    "motto": "Building Mega Service kompaniyasi O'zbekiston qurilish bozorida yetakchi o'rinni egallaydi. Kompaniyamiz 2014-yilda tashkil etilgan.",
+    "adress": "Adress: Yashnobod, Parkent kochasi 74 uy",
+    "tell": "Raqam :",
+    "email": "Email :",
+    "workTime": "Ish vaqti :",
+    "quickLinks": "Tezkor havolalar"
+  },
+  "innerNews": {
+    "title1": "250-bog'cha qurilish ishlari yakunlandi!",
+    "subTitle1": "O‘zbekiston Respublikasi Vazirlar Maxkamasining 2021 yil 20 avgusdagi 478-F-sonli farmoyishi ijrosini  ta'minlash maqsadida Toshkent shahar, Yakkasaroy tumanidagi  250 MTM, 323 MTM, 300 MTM, 8- tug‘ruq majmuasilari joriy ta'mirlash va 60 -   Oilaviy poliklinka mukammal ta'mirlash belgilangan.Hozirda ushbu ob'ektlarda joriy ta'mirlash va mukammal ta'mirlash ishlari nixoyasiga yetmoqda. Smeta xujjatlariga asosan ob'ektlarda ish olib borilgan va kelgusida sifatli va o‘z vaqtida foydalanishga topshirilgan.",
+    "title2": "FOOD CITY bozorida Trastbank filiali quirilishi yakunlandi.",
+    "title3": "60-sonli oilaviy poliklinkika foydalanishga topshirildi.",
+    "subTitle2": "Yangi qurilayotgan yirik bozor hududida hamkorimiz Trastbankning yangi filiali qurib bitkazildi. Bank to'liq xavfsizlik tizimlariga javob beradi va mijozlarga sifatli xizmat ko'rsatishni boshlaydi. Bankning tashqi ko'rinshi chiroyli bo'lishi uchun qo'shimcha tarzda bino yoniga favvora qurib berildi. Uning suv bilan bog'liq montaj ishlari bizninh professional xodimlarimiz tomonidan to'liq loyihalashtirilib, barcha qismlari puxta qurib berildi.",
+    "subTitle3": "Oilaviy poliklinika to'liq montaj ishlari bitdi va yangi qismlari quirilish ishlari davom ettirilmoqda. Montaj ishlari cho'zilganligi sababli mazkur binoning ayrim bloklari vaqtinchalik faoliyat ko'rsatmay turadi. Qurilish ishllari tez va sifatli yakunlanishi uchun bizning xodimlar bor imkoniyatlaridan foydalanmoqdalar."
+  },
+  "innerProject": {
+    "project": "Loyiha",
+    "intro1": "1994-yilda tashkil etilgan «Trastbank» aksiyadorlik birja banki O‘zbekiston Respublikasidagi eng etakchi banklaridan biri bo‘lib u o'z mijozlariga barcha turdagi keng ko‘lamli bank mahsulotlari va xizmatlarini ko‘rsatib kelmoqda. Bank tarixi mustaqillik yillarida respublikamiz bank sektorining muntazam rivojlanish sur’atlarini aks ettiradi. Biz Trastbankning yana bir filialini FOOD CITY bozorida qurilishini yakunladik!",
+    "intro2": "“ProCab” mas’uliyati cheklangan jamiyati qo‘shma korxonasi yuqori sifatli kabel va sim mahsulotlariga ichki va tashqi bozor talabini qondirish maqsadida 2012-yilda tashkil etilgan. Korxona tashkil etilganidan buyon bugungi kunga qadar zavodni modernizatsiya qilish uchun 40 million dollardan ortiq mablag‘ yo‘naltirildi. ProCab zavodi Toshkent shahrining Sergeli tumanida 14 gektar maydonda joylashgan. Korxonada Germaniya, Finlyandiya, Turkiya va Xitoyning yetakchi kompaniyalarining avtomatlashtirish va boshqarish vositalari bilan jihozlangan zamonaviy uskunalari yordamida kabel va simlar ishlab chiqariladi.Ishlab chiqarishni boshlagan kundan boshlab biz kabel mahsulotlariga bo‘lgan talab, taklif va bozor talablarini atroflicha o‘rgandik, buning natijasida mahsulotlarimiz turlarini sezilarli darajada oshirish imkonini berdi. Yangi mahsulotlar, texnologiyalar va yangi g'oyalarga doimiy sarmoya kiritilishi natijasida kompaniyamiz 2000 dan ortiq turdagi kabel mahsulotlari ishlab chiqargan holda sanoatning ushbu tarmog'ida juda mashhur bo'ldi.",
+    "intro3": "“O‘zbekiston Respublikasi Vazirlar Maxkamasining 2021 yil 20 avgusdagi 478-F-sonli farmoyishi ijrosini  ta'minlash maqsadida Toshkent shahar, Yakkasaroy tumanidagi  250 MTM, 323 MTM, 300 MTM, 8- tug‘ruq majmuasilari joriy ta'mirlash va 60 -   Oilaviy poliklinka mukammal ta'mirlash belgilangan.Hozirda ushbu ob'ektlarda joriy ta'mirlash va mukammal ta'mirlash ishlari nixoyasiga yetmoqda. Smeta xujjatlariga asosan ob'ektlarda ish olib borilgan va kelgusida sifatli va o‘z vaqtida foydalanishga topshirilgan.",
+    "intro4": "Bino va uylarning tashqi ko'rinishi odamlarni birinchi navbatda o'ziga jalb qiladi. Uning ko'rinishi siz uchun juda muhim narslarni belgilab berishi mumkin. Agarda uy yoki binoyingizni tashqi qismlarini yanada chiroyli ko'rinishini xohlasangiz, biz sizga o'z xizmatlarimizni taklif etishimiz mumkin.",
+    "intro5": "“O‘zbekiston Respublikasi Vazirlar Maxkamasining 2021 yil 20 avgusdagi 478-F-sonli farmoyishi ijrosini  ta'minlash maqsadida Toshkent shahar, Yakkasaroy tumanidagi  250 MTM, 323 MTM, 300 MTM, 8- tug‘ruq majmuasilari joriy ta'mirlash va 60 -   Oilaviy poliklinka mukammal ta'mirlash belgilangan.Hozirda ushbu ob'ektlarda joriy ta'mirlash va mukammal ta'mirlash ishlari nixoyasiga yetmoqda. Smeta xujjatlariga asosan ob'ektlarda ish olib borilgan va kelgusida sifatli va o‘z vaqtida foydalanishga topshirilgan.",
+    "intro6": "“Fitch” xalqaro reyting agentligi “Trastbank” XAB reytingi “B” darajasida ekanligini tasdiqladi. 2021-yil 25-noyabr kuni “Fitch Ratings-Moskva” reyting agentligi “Trastbank” xususiy aksiyadorlik bankiga o‘zining xorijiy va milliy valyutadagi uzoq muddatli emitent defolt reytingini (EDR) “Barqaror” prognozi bilan “B” darajasida hamda Barqarorlik reytingini (VR) “b” darajasida ekanligini qayta tasdiqladi.",
+    "intro7": "“Kompaniya tashkil topgan kundan boshlab biz har qanday ehtiyoj uchun yuqori sifatli va ishonchli alyuminiy profillarni ishlab chiqarish orqali har bir mijozning qulayligini ta'minlashga intilamiz: derazalar, tutqichlar va eshiklar, jabhalar, avtomobil profillari va panjaralarigacha. Yevropa va Osiyodan 100% sof alyuminiy va yuqori sifatli import qilingan komponentlar (masalan: bo‘yoq, kimyoviy moddalar va boshqalar) O‘zbekiston bozorida sifatli yetakchilik va har bir mijozga g‘amxo‘rlik haqida ishonch bilan gapirish imkonini beradi!",
+    "intro8": "Og'ir yuklarni yuklash, tushirish yuk ko'tarish quvvati 45 tonnagacha bo'lgan portal kran va yuk ko'tarish quvvati 10 tonnagacha bo'lgan avtokranlar tomonidan amalga oshiriladi. Terminal hududida bojxona tartib-taomillari bo‘yicha bojxona deklarantlari va sertifikatlashtirish hujjatlarini o‘z vaqtida rasmiylashtirish bo‘yicha “O‘zstandart” agentligi vakillari faoliyat yuritmoqda."
+  },
+  "forForm": {
+    "name": "Ism",
+    "email": "Email",
+    "comment": "Sharh",
+    "button": "Yuborish",
+    "connect": "Bog'lanish"
+  },
+  "loyihalar":"Loyihalar",
+  "homapage_r":"Bosh sahifa",
+  "ourproject":"Bizning loyihalar",
+  "transbank_r":"Bu obyekt Bektemir tumani FOOD City xududida bank binosi",
+  "transbanktitle_r":"TRASTBANK",
+  "poliknika_r":"Oilaviy Polilinika",
+  "poliknikaraqami_r":"60-sonli oilaviy poliklinika qurilishi o'z nihoyasiga yetib foydalanishga topshirildi!",
+  "transbankfiliali_r":"TRASTBANK Samarqand filiali",
+  "filialhaqida_r":"Obyetkt qurilish ishlari sifatli tarzda bank xavfsizlik tomonlarini o'ylagan holda puxta qilib qurilgan !",
+  "yangilipage_r":"Yangiliklar",
+  "contact_r":"Aloqa"
+}
