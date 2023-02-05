@@ -4,7 +4,7 @@ import img from "../../../assets/projects/bogcha1.jpg"
 import img2 from "../../../assets/projects/trastbank4.jpg";
 import img3 from "../../../assets/projects/poliklinika1.jpg";
 import "./MainNewsCopy.css";
-import { NavLink,Link } from "react-router-dom";
+import {Link } from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 <link
   href="https://fonts.googleapis.com/css?family=Raleway:400,800,300"
