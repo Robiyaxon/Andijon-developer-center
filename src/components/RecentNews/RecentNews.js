@@ -37,7 +37,7 @@ function RecentNews() {
     <div className="col-md-4" key={a.id}>
       <Link to={a.link}>
         <div className="top">
-          <img src={a.img} alt="Image" />
+          <img src={a.img} alt="" />
         </div>
         <div className="news_text">
           <h3>{a.title1}</h3>

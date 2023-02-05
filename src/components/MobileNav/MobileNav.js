@@ -52,7 +52,7 @@ function MobileNav() {
                 <div className='left_box'>
                     <div className='logo'>
                         <a href='/'>
-                            <img src={ logo} alt="this is an image" />
+                            <img src={ logo} alt="" />
                         </a>
                     </div>
                 </div>
