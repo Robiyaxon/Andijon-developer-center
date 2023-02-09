@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import style from "../news/HeaderNews/HeaderNews.module.css";
 import { NavLink } from "react-router-dom";
-import img from "../../assets/architecture2.jpg";
+import img from "../../assets/prj.jpg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useTranslation } from 'react-i18next';

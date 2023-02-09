@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 import React, { useEffect } from "react";
 // import img from "../../assets/1.jpg";
 import { useTranslation } from 'react-i18next'
@@ -26,10 +27,9 @@ function History() {
               </p>
             </div>
           </div>
-          <div className="col-md-6"  >
-            <video width="750" height="500" controls >
-              <source src="https://youtu.be/Cnt_gBTzRVk" />
-            </video>
+          <div className="col-md-6 "  >
+          <iframe className="iframe9" src="https://www.youtube.com/embed/Cnt_gBTzRVk" title="ADC commercial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
           </div>
         </div>
       </div>

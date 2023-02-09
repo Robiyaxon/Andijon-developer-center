@@ -23,7 +23,7 @@
   grid-template-columns: 33% 33% 33%;
 }
 .PageameNavlink {
-  color: white;
+  color: blue;
   text-decoration: none;
 }
 .PageameNavlink:hover {

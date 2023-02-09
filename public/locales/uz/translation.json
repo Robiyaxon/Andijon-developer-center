@@ -30,8 +30,8 @@
   },
   "ourHistory": {
     "intro": "BIZNING TARIX",
-    "title1": "Building Mega Service kompaniyasi O'zbekiston qurilish bozorida yetakchi o'rinni egallaydi. Kompaniyamiz 2014-yilda tashkil etilgan.",
-    "subTitle1": "Kompaniyaning asosiy yo'nalishi: har qanday murakkablikdagi inshootlarning ofis binolarini rekonstruksiya qilish, binolarni kapital ta'mirlash, ofislarni ta'mirlash, shuningdek, har qanday dizayndagi demontaj va yig'ish. Kompaniyamiz muhandislik tarmoqlarini o'rnatish, ya'ni 380 kVtgacha bo'lgan elektr montaj ishlari, sanitariya-tesisat ishlari, isitish, ventilyatsiya va konditsionerlarni o'rnatish ishlarini ham bajarishi mumkin."
+    "title1": "“Andijan Development” oʻquv markazi 1990-yildan beri arzon va sifatli til va kompyuter kurslarini taqdim etib keladi.",
+    "subTitle1": "ADC sizga samarali o'rganish uchun zarur bo'lgan barcha tajriba va intensiv dars ishtirokini kafolatlaydi. Bizning veb-saytimizni o'rganing va bizni haqiqiy hayotda sinab ko'ring!"
   },
   "homeProjects":{
     "seeProject": "Loyihani ko'rish",
@@ -39,7 +39,7 @@
     "subTitle1": "FOOD City xududida Trastbankning yangi filialni qurishni yakunladik!",
     "title2": "ProCab kompaniyasi",
     "subTitle2": "ProCab kompaniyasi bilan ancha yillardan beri hamkorlik qilib kelmoqdamiz",
-    "title3": "Oilaviy Poliklinka",
+    "title3": "Faruh Mallabayev",
     "subTitle3": "60-sonli oilaviy poliklinika qurilishi o'z nihoyasiga yetib foydalanishga topshirildi!",
     "title4": "Tashqi fasadlarni yuvish",
     "subTitle4": "Qilgan ishlarimizdan namunalarni ko'ring va baho bering!",
@@ -95,9 +95,9 @@
     "button": "Yuborish",
     "connect": "Bog'lanish"
   },
-  "loyihalar":"Loyihalar",
+  "loyihalar":"Natijalar",
   "homapage_r":"Bosh sahifa",
-  "ourproject":"Bizning loyihalar",
+  "ourproject":"Bizning natijalar",
   "transbank_r":"Bu obyekt Bektemir tumani FOOD City xududida bank binosi",
   "transbanktitle_r":"TRASTBANK",
   "poliknika_r":"Oilaviy Polilinika",
