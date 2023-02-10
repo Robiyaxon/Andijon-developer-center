@@ -1,11 +1,11 @@
 import React from 'react'
 import  ProjectHeader  from './ProjectHeader';
 import {ProjectName} from "./ProjectName.jsx";
- const MainProject = () => {
+ const MainProject = (props) => {
   return (
     <div>
-        <ProjectHeader />
-        <ProjectName />
+        <ProjectHeader map2={props.map2}/>
+        <ProjectName map2={props.map2} />
     
     </div>
   )

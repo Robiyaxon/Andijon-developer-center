@@ -2,7 +2,7 @@ import React from "react";
 import style from "../news/HeaderNews/HeaderNews.module.css";
 import {useTranslation} from 'react-i18next'
 import { NavLink } from "react-router-dom";
-import img from "../../assets/Build/alutex1.jpg";
+import img from "../../assets/projects/ielts4.jpg";
 
 export function SingleHeader7() {
   const {t} = useTranslation();
@@ -13,12 +13,12 @@ export function SingleHeader7() {
       <div className={style.HeaderNews}>
         <img src={img} alt="rasm bor edi" />
         <div className={style.BlockLink}>
-          <h1>{t("homeProjects.title7")}</h1>
+          <h1>{t("homeProjects.title_Shaxlo")}</h1>
           <NavLink to="/" className={style.Block1}>
             {t("homapage_r")}
           </NavLink>
           <a href="/project" className={style.Block2}>
-            / {t("innerProject.project")}{" "}
+            / {t("loyihalar")}{" "}
           </a>
         </div>
       </div>
