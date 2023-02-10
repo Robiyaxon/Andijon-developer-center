@@ -7,7 +7,28 @@ const SingleNews1 = (props) => {
   const {t} = useTranslation();
   return (
     <div className={style.WrappererNews}>
-     <h1>{props.name}</h1>
+      <div className={style.SingleNews1Wrapper}></div>
+
+      <div
+        className={style.HeaderNews2}
+        style={{ backgroundImage: `url(${img2})` }}
+      >
+        <h1 >
+          {t("homeNews.intro")}
+        </h1>
+      </div>
+      <div
+        className={style.SingleKatalog}
+      >
+        <div className={style.discription} style={{ width: "100%" }}>
+          <h1
+            className={style.TitleName}
+          >
+            {t("innerNews.title1")}
+          </h1>
+          <h1 className={style.description4}>{t("innerNews.subTitle1")}</h1>
+        </div>
+      </div>
     </div>
   );
 };
